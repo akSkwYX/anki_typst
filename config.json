@@ -1,0 +1,10 @@
+{
+   "typst_path": "",
+   "font_paths": [],
+   "ppi": 192,
+   "timeout_seconds": 20,
+   "invert_in_night_mode": true,
+   "always_invert": false,
+   "default_preamble": "#set page(width: auto, height: auto, margin: 3pt, fill: none)\n#set text(size: 14pt)\n",
+   "note_type_preambles": {}
+}
